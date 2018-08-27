@@ -1,6 +1,6 @@
 // Code your solution in this file!
 const returnFirstTwoDrivers() {
   function(drivers) {
-    return drivers[-2];
+    return drivers[-2]
   };
 }
